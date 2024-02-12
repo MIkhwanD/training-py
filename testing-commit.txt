@@ -1,0 +1,4 @@
+testing commit
+version control system (git)
+python oop(abstraction, inheritence, interface, encapsulation, dll)
+typing and mypy
