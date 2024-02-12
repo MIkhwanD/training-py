@@ -1,8 +1,6 @@
 testing commit
-version control system (git)
 python oop(abstraction, inheritence, interface, encapsulation, dll)
 typing and mypy
-modular programming
 Data Structure Next Level(Enum, pydantic Model)
 multiprocessing and threading
 sysfs
